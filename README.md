@@ -66,7 +66,7 @@ These is all commands that can be used.
 It's a terminal executable, the install is super simple.
 
 1. **Install Executable**:
-   - Go to section [Release]() of our Github Repositorie
+   - Go to section [Release](https://github.com/G4brielXavier/click-command/releases/tag/simple) of our Github Repositorie
    - Download the file `click_command.exe` to your OS
 
 2. **Execute in Terminal**:
