@@ -1,0 +1,5 @@
+/.vscode
+codes.json
+run.bat
+/venv
+/app/utils
