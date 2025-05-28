@@ -3,3 +3,6 @@ codes.json
 run.bat
 /venv
 /app/utils
+/app/dist
+/app/build
+/app/clicker_command.spec

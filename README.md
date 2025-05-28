@@ -3,6 +3,9 @@
 A simple executable click game to terminal, where you click using a command to earn clicks. 
 
 
+![MainIntroduction](./public/gifs/main.gif)
+
+
 ## Sumary
 
 - [Clicker Command](#clicker-command)
@@ -23,6 +26,8 @@ The *Clicker Command* is a minimalist game, perfect for those looking for fast a
 
 
 ## How to Play
+
+![HowToPlay](./public/gifs/gameplay.gif)
 
 1. **Execute the game**: Open the executable (view the [Installing](#installing) section here) 
 2. **Start to Click**: Use the commands `settings` to view the *commandToClick* and use the command to click.
